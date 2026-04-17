@@ -1,0 +1,13 @@
+speechrecognition
+pyaudio
+groq
+cohere
+elevenlabs
+flask
+flask-socketio
+pygame
+python-dotenv
+ddgs
+pyautogui
+AppOpener
+pyttsx3
